@@ -1,0 +1,74 @@
+[0m[[0mdebug[0m] [0mForking tests - parallelism = false[0m
+[0m[[0mdebug[0m] [0mCreate a single-thread test executor[0m
+[0m[[0mdebug[0m] [0mRunner for sbt.FrameworkWrapper produced 0 initial tasks for 0 tests.[0m
+[0m[[0mdebug[0m] [0mRunner for org.scalatest.tools.Framework produced 9 initial tasks for 9 tests.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(SparkSQL8Spec, sbt.ForkMain$SubclassFingerscan@4aa03f03, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mSparkSQL8Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mSparkSQL8[0m[0m
+[0m[[0minfo[0m] [0m[32m- runs SQL queries against an RDD[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(WordCount3Spec, sbt.ForkMain$SubclassFingerscan@66b2b4a7, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mWordCount3Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mWordCount3[0m[0m
+[0m[[0minfo[0m] [0m[32m- computes the word count of the input corpus with options[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(NGrams6Spec, sbt.ForkMain$SubclassFingerscan@7fb64219, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mNGrams6Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mNGrams6[0m[0m
+[0m[[0minfo[0m] [0m[32m- computes ngrams from text[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(WordCount2Spec, sbt.ForkMain$SubclassFingerscan@66e9b0b6, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mWordCount2Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mWordCount2[0m[0m
+[0m[[0minfo[0m] [0m[32m- computes the word count of the input corpus[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(Matrix4Spec, sbt.ForkMain$SubclassFingerscan@2738b5d3, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mMatrix4Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mMatrix4[0m[0m
+[0m[[0minfo[0m] [0m[32m- computes the sums of the rows in parallel.[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(com.typesafe.sparkworkshop.util.MatrixSpec, sbt.ForkMain$SubclassFingerscan@377eaf98, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mMatrixSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mMatrix[0m[0m
+[0m[[0minfo[0m] [0m[32m  construction[0m[0m
+[0m[[0minfo[0m] [0m[32m  - requires positive row and column counts[0m[0m
+[0m[[0minfo[0m] [0m[32m  - constructs an MxN matrix[0m[0m
+[0m[[0minfo[0m] [0m[32m  - The cell at index (m,n) has the value (m*N+n) (zero-based indexing)[0m[0m
+[0m[[0minfo[0m] [0m[32m  apply(i)[0m[0m
+[0m[[0minfo[0m] [0m[32m  - returns row i (zero-based indexing)[0m[0m
+[0m[[0minfo[0m] [0m[32m  apply(i,j)[0m[0m
+[0m[[0minfo[0m] [0m[32m  - returns cell (i,j) (zero-based indexing)[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 5 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(Joins7Spec, sbt.ForkMain$SubclassFingerscan@3300531d, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mJoins7Spec:[0m[0m
+[0m[[0minfo[0m] [0m[32mJoins7[0m[0m
+[0m[[0minfo[0m] [0m[32m- computes the join of the bible book abbreviations with their full names[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(InvertedIndex5bSpec, sbt.ForkMain$SubclassFingerscan@51f70f31, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mInvertedIndex5bSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mInvertedIndex5b[0m[0m
+[0m[[0minfo[0m] [0m[32m- computes the famous 'inverted index' from web crawl data[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0m  Running TaskDef(Crawl5aSpec, sbt.ForkMain$SubclassFingerscan@1fe34e2d, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[32mCrawl5aSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mCrawl5a[0m[0m
+[0m[[0minfo[0m] [0m[32m- simulates a web crawler[0m[0m
+[0m[[0mdebug[0m] [0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0mdebug[0m] [0mSummary for ScalaCheck not available.[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 25 seconds, 984 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 13[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 9, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 13, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0minfo[0m] [0mPassed: Total 13, Failed 0, Errors 0, Passed 13[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	NGrams6Spec[0m
+[0m[[0mdebug[0m] [0m	WordCount3Spec[0m
+[0m[[0mdebug[0m] [0m	Crawl5aSpec[0m
+[0m[[0mdebug[0m] [0m	Matrix4Spec[0m
+[0m[[0mdebug[0m] [0m	com.typesafe.sparkworkshop.util.MatrixSpec[0m
+[0m[[0mdebug[0m] [0m	SparkSQL8Spec[0m
+[0m[[0mdebug[0m] [0m	InvertedIndex5bSpec[0m
+[0m[[0mdebug[0m] [0m	WordCount2Spec[0m
+[0m[[0mdebug[0m] [0m	Joins7Spec[0m

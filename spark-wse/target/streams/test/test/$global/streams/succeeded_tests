@@ -1,0 +1,11 @@
+#Successful Tests
+#Fri Dec 04 12:07:27 PST 2015
+InvertedIndex5bSpec=1449259643957
+WordCount3Spec=1449259631629
+Joins7Spec=1449259639131
+WordCount2Spec=1449259633351
+SparkSQL8Spec=1449259630117
+com.typesafe.sparkworkshop.util.MatrixSpec=1449259633638
+Crawl5aSpec=1449259647283
+NGrams6Spec=1449259632568
+Matrix4Spec=1449259633618

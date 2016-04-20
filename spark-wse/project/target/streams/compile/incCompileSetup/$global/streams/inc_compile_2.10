@@ -1,0 +1,332 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+5 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+4 -> -Xlint
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+36 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$1.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$10.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$11.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$12.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$13.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$14.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$2.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$3.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$4.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$5.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$6$$anonfun$apply$7.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$6.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$8.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$9.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$2.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$3.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$4.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$1.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$2.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$3.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$4.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$5.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$6.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$7.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependency$.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependency$Version$.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependency.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Resolvers$.class
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Resolvers.class
+binary dependencies:
+11 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /Users/ujjawal.sinha/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+36 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$1
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$10
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$11
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$12
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$13
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$14
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$2
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$3
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$4
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$5
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$6
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$6$$anonfun$apply$7
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$8
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$9
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$2
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$3
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild$$anonfun$activatorspark$4
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$1
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$2
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$3
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$4
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$5
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$6
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings$$anonfun$buildSettings$7
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependencies
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependencies$
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependency
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependency$
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependency$Version$
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Resolvers
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Resolvers$
+used names:
+119 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> %
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> %%
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ++
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ++=
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> +=
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> /
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> :=
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> <<=
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> <init>
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ActivatorSparkBuild
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> AnyRef
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Append
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Build
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> BuildSettings
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Compile
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ConfigKey
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Def
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Defaults
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependencies
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Dependency
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> FullInstance
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> HiddenFileFilter
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> InitializeInstance
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> InputWrapper
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Keys
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Name
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Predef
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Project
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Resolvers
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ScalaCheck
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ScalaTest
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ScalaVersion
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ScalaVersions
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Seq
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Spark
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Test
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Version
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> Watched
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> activatorspark
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> allResolvers
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> append1
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> appendN
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> appendSeq
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> apply
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> at
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> augmentString
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> baseDirectory
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> buildSettings
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> canBuildFrom
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> clearWhenTriggered
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> collection
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> configurationToKey
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> connectInput
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> coreDefaultSettings
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> crossScalaVersions
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> currentProject
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> dependsOn
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> description
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> excludeFilter
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> excludeSigFilesRE
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> exportJars
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> extract
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> file
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> fork
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> format
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> globFilter
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> id
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> in
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> libraryDependencies
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> macroValueI
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> mainClass
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> map
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> maxErrors
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> moduleIDConfigurable
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> mvnrepository
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> name
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> organization
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> package
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> packageBin
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> parallelExecution
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> pure
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> r
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> resolvers
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> richFile
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> richInitializeInputTask
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> run
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sbt
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> scala
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> scalaCheck
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> scalaTest
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> scalaVersion
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> scalacOptions
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> set
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> shellPrompt
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sonatype
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sparkCore
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sparkHiveSQL
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sparkRepl
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sparkSQL
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> sparkStreaming
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> state
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> toGroupID
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> toRepositoryName
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> triggeredMessage
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> typesafe
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> unmanagedResourceDirectories
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> unmanagedSources
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> value
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> version
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> wrapInit_☃☃
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$1
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$2
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$3
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$4
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$5
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$6
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$7
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> x$8
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> ||
+product stamps:
+36 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$1.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$10.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$11.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$12.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$13.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$14.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$2.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$3.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$4.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$5.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$6$$anonfun$apply$7.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$6.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$8.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1$$anonfun$apply$9.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$1.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$2.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$3.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$$anonfun$activatorspark$4.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild$.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/ActivatorSparkBuild.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$1.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$2.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$3.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$4.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$5.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$6.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$$anonfun$buildSettings$7.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings$.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/BuildSettings.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependency$.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependency$Version$.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Dependency.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Resolvers$.class -> lastModified(1449263662000)
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/target/scala-2.10/sbt-0.13/classes/Resolvers.class -> lastModified(1449263662000)
+source stamps:
+1 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> hash(d306767708ced441f141e11fbc104fbbb820f23b)
+binary stamps:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar -> lastModified(1439253124000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> lastModified(1439253158000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.9.jar -> lastModified(1439253403000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.9.jar -> lastModified(1439253372000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar -> lastModified(1439253376000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> lastModified(1439253385000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> lastModified(1439253389000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> lastModified(1439253291000)
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar -> lastModified(1439253204000)
+/Users/ujjawal.sinha/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425002069000)
+class names:
+11 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.9.jar -> sbt.appmacro.Instance$
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.9.jar -> sbt.Init
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/command/jars/command-0.13.9.jar -> sbt.State
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.9.jar -> sbt.WatchState
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.9.jar -> sbt.Resolver
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.9.jar -> sbt.std.FullInstance$
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.9.jar -> sbt.Build
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.9.jar -> sbt.package$
+/Users/ujjawal.sinha/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.9.jar -> sbt.Task
+/Users/ujjawal.sinha/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.util.matching.Regex
+internal apis:
+1 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAc5uQlAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAMnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJz/uXh0AAZub3RpZnlzcQB+AAy1Mh+RdAAMc3BhcmtIaXZlU1FMc3EAfgAMFsMgz3QABHdhaXRzcQB+AAwaFK1idAAJc2NhbGFUZXN0c3EAfgAMO2L9h3QADFNjYWxhVmVyc2lvbnNxAH4ADNS0/cN0AAROYW1lc3EAfgAMjMh+YHQADSRhc0luc3RhbmNlT2ZzcQB+AAyGFHYadAAJU2NhbGFUZXN0c3EAfgAMBkdLpXQADGJ1aWxkTG9hZGVyc3NxAH4ADKER9+p0AAZlcXVhbHNzcQB+AAyCtqArdAAIc3BhcmtTUUxzcQB+AAwPghNhdAAMYXNJbnN0YW5jZU9mc3EAfgAMnmmf6HQAEnByb2plY3REZWZpbml0aW9uc3NxAH4ADDV87fR0AA5hY3RpdmF0b3JzcGFya3NxAH4ADOQTfpx0AAlzcGFya0NvcmVzcQB+AAxX/bT4dAAMc3luY2hyb25pemVkc3EAfgAMnW1tVHQADERlcGVuZGVuY2llc3NxAH4ADAJdTiR0AAxhbGxSZXNvbHZlcnNzcQB+AAz/3CTLdAANJGlzSW5zdGFuY2VPZnNxAH4ADGygtBB0AAdWZXJzaW9uc3EAfgAMZ9WMmHQAClNjYWxhQ2hlY2tzcQB+AAzcFXt+dAAJc3BhcmtSZXBsc3EAfgAMiFFLcXQACW5vdGlmeUFsbHNxAH4ADKdLWb10AAtyb290UHJvamVjdHNxAH4ADO/vKnF0ABFleGNsdWRlU2lnRmlsZXNSRXNxAH4ADF4M8hl0ABNBY3RpdmF0b3JTcGFya0J1aWxkc3EAfgAMLQ7rbHQADGlzSW5zdGFuY2VPZnNxAH4ADEdwcpJ0AAlSZXNvbHZlcnNzcQB+AAwn7CGFdAACPT1zcQB+AAyQrkqQdAAIdHlwZXNhZmVzcQB+AAzLfAYfdAAFY2xvbmVzcQB+AAw9LOfOdAAFU3BhcmtzcQB+AAwv42BNdAAIc29uYXR5cGVzcQB+AAzifYU3dAAIdG9TdHJpbmdzcQB+AAwuI5mmdAACIT1zcQB+AAyFAQ8PdAANbXZucmVwb3NpdG9yeXNxAH4ADAvlnuh0AAhwcm9qZWN0c3NxAH4ADF2hc9B0AAhnZXRDbGFzc3NxAH4ADI/D+1x0AA1TY2FsYVZlcnNpb25zc3EAfgAMXQ/DKHQADnNwYXJrU3RyZWFtaW5nc3EAfgAMy63IuXQADUJ1aWxkU2V0dGluZ3NzcQB+AAy7BJqIdAACbmVzcQB+AAxkPZH/dAAKRGVwZW5kZW5jeXNxAH4ADE9sLeR0AApzY2FsYUNoZWNrc3EAfgAMM0wWy3QADWJ1aWxkU2V0dGluZ3NzcQB+AAzwoBN/dAACZXFzcQB+AAzhxdZ6dAAIc2V0dGluZ3NzcQB+AAz4n6RNdAACIyNzcQB+AAxUHuPNdAAIZmluYWxpemVzcQB+AAycayXmdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB7eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AF91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCTeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCSAHBzcQB+AJdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ae0wACWluaGVyaXRlZHEAfgB7TAAHcGFyZW50c3EAfgB7eHEAfgCbc3EAfgCSAHBzcQB+AJd1cQB+AHYAAAAAc3EAfgCSAHBzcQB+AJd1cQB+AHYAAAAAc3EAfgCSAHBzcQB+AJd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJp0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALd0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALhzcQB+AKt0AANBbnlzcQB+AK9zcQB+ALJ1cQB+ALUAAAACc3EAfgC3dAAFc2NhbGFxAH4AvnNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiABxAH4ARXVxAH4AigAAAABxAH4AjnVxAH4AkAAAAABzcQB+AJIAcHNxAH4Al3EAfgCcc3EAfgCSAHBzcQB+AJdzcQB+AJ9zcQB+AJIAcHNxAH4Al3VxAH4AdgAAAABzcQB+AJIAcHNxAH4Al3VxAH4AdgAAAABzcQB+AJIAcHNxAH4Al3VxAH4AqQAAAAJzcQB+AKtxAH4ArnNxAH4Ar3NxAH4AsnVxAH4AtQAAAANzcQB+ALdxAH4AunNxAH4At3EAfgC8cQB+AL5zcQB+AKtxAH4AwHNxAH4Ar3NxAH4AsnVxAH4AtQAAAAJzcQB+ALdxAH4AxXEAfgC+c3EAfgB4cQB+AIV1cQB+AIYAAAAAc3EAfgCIAHEAfgBjdXEAfgCKAAAAAHEAfgCOdXEAfgCQAAAAAHNxAH4AkgBwc3EAfgCXcQB+AJxzcQB+AJIAcHNxAH4Al3NxAH4An3NxAH4AkgBwc3EAfgCXdXEAfgB2AAAAAHNxAH4AkgBwc3EAfgCXdXEAfgB2AAAAAHNxAH4AkgBwc3EAfgCXdXEAfgCpAAAAAnNxAH4Aq3EAfgCuc3EAfgCvc3EAfgCydXEAfgC1AAAAA3NxAH4At3EAfgC6c3EAfgC3cQB+ALxxAH4AvnNxAH4Aq3EAfgDAc3EAfgCvc3EAfgCydXEAfgC1AAAAAnNxAH4At3EAfgDFcQB+AL5zcQB+AHhxAH4AhXVxAH4AhgAAAABzcQB+AIgAcQB+AC91cQB+AIoAAAAAcQB+AI51cQB+AJAAAAAAc3EAfgCSAHBzcQB+AJdxAH4AnHNxAH4AkgBwc3EAfgCXc3EAfgCfc3EAfgCSAHBzcQB+AJd1cQB+AHYAAAAAc3EAfgCSAHBzcQB+AJd1cQB+AHYAAAAAc3EAfgCSAHBzcQB+AJd1cQB+AKkAAAACc3EAfgCrcQB+AK5zcQB+AK9zcQB+ALJ1cQB+ALUAAAADc3EAfgC3cQB+ALpzcQB+ALdxAH4AvHEAfgC+c3EAfgCrcQB+AMBzcQB+AK9zcQB+ALJ1cQB+ALUAAAACc3EAfgC3cQB+AMVxAH4AvnNxAH4AeHEAfgCFdXEAfgCGAAAAAHNxAH4AiABxAH4AQXVxAH4AigAAAABxAH4AjnVxAH4AkAAAAABzcQB+AJIAcHNxAH4Al3EAfgCcc3EAfgCSAHBzcQB+AJdzcQB+AJ9zcQB+AJIAcHNxAH4Al3VxAH4AdgAAAABzcQB+AJIAcHNxAH4Al3VxAH4AdgAAAABzcQB+AJIAcHNxAH4Al3VxAH4AqQAAAANzcQB+AKt0AAVCdWlsZHNxAH4Ar3NxAH4AsnVxAH4AtQAAAAJzcQB+ALd0AANzYnRxAH4AvnNxAH4Aq3EAfgCuc3EAfgCvc3EAfgCydXEAfgC1AAAAA3NxAH4At3EAfgC6c3EAfgC3cQB+ALxxAH4AvnNxAH4Aq3EAfgDAc3EAfgCvc3EAfgCydXEAfgC1AAAAAnNxAH4At3EAfgDFcQB+AL51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUW7YfjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABeL1VzZXJzL3VqamF3YWwuc2luaGEvU2NhbGFfQWN0aXZhdG9yL3NwYXJrLXdvcmtzaG9wL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFNMGdncIztRB8UHhH7wQT7u4IPI7
+external apis:
+0 items
+source infos:
+1 items
+/Users/ujjawal.sinha/Scala_Activator/spark-workshop/project/Build.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUW6UBZ51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy91amphd2FsLnNpbmhhL1NjYWxhX0FjdGl2YXRvci9zcGFyay13b3Jrc2hvcC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUW7YfjJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXi9Vc2Vycy91amphd2FsLnNpbmhhL1NjYWxhX0FjdGl2YXRvci9zcGFyay13b3Jrc2hvcC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
